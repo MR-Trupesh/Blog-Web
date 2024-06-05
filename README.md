@@ -4,7 +4,7 @@ Adding a README file to your blog's web project is a great idea! It helps others
 
 # Your Blog's Web Project
 
-Welcome to the repository for [Your Blog's Name], a web project for managing and publishing blog content. This README will guide you through setup, usage, and contribution.
+Welcome to the repository for [BLOG WEB], a web project for managing and publishing blog content. This README will guide you through setup, usage, and contribution.
 
 ## Table of Contents
 
