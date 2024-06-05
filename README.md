@@ -1,6 +1,4 @@
-Adding a README file to your blog's web project is a great idea! It helps others understand your project quickly and provides essential information on how to use and contribute to it. Here's a template you can use:
 
----
 
 # Your Blog's Web Project
 
