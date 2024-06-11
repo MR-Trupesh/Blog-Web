@@ -14,7 +14,7 @@ This project is a simple blog web application built using Node.js for the backen
 - Express.js
 - React.js
 - MongoDB (or any other database of your choice)
-- Bootstrap (for styling)
+
 
 ## Installation
 1. Clone the repository: `git clone https://github.com/yourusername/blog-web-app.git`
